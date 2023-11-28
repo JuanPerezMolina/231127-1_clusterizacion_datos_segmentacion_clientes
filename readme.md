@@ -14,7 +14,7 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-El objetivo de este proyecto es aplicar una metodología de segmentación de clientes a través de la técnica de ciencia de datos llamada clusterización (agrupamiento) para implementar campañas de Marketing mas efectivas y personalizadas. 
+El objetivo de este proyecto es aplicar una metodología de segmentación de clientes a través de una técnica de ciencia de datos llamada clusterización (agrupamiento) para implementar campañas de Marketing mas efectivas y personalizadas. Se empleó una técnica de segmentación del comportamiento del cliente basada en datos conocida como RFM (Recencia o Actualidad, Frecuencia, y Valor Monetario)
 
 <b>Objetivos:</b> 
 - Aprender cómo conducir un problema de machine learning de inicio a fin, empleando la pipeline de Data Science
